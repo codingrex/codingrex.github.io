@@ -1,10 +1,10 @@
 ---
-title: "CMSC132:  Object-Oriented Programming II"
+title: "CMSC421: Introduction to Artificial Intelligence"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/cmsc421
+permalink: /teaching/2021-spring-cmsc421
 venue: "University of Maryland, CS department"
-date: Spring 2019
+date: Spring 2021
 ---
 
 

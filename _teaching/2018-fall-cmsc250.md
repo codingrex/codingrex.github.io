@@ -1,10 +1,10 @@
 ---
-title: "CMSC420: Advanced Data Structures"
+title: "CMSC250: Discrete Structures"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/cmsc420
+permalink: /teaching/2018-fall-cmsc250
 venue: "University of Maryland, CS department"
-date: Spring/Fall 2020
+date: Fall 2018/19
 ---
 
 

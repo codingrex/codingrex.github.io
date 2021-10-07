@@ -1,8 +1,8 @@
 ---
 title: "Multi-Agent Reinforcement Learning for Visibility-based Persistent Monitoring"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-venue: 'Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021. '
+permalink: /publication/2021-10-01-paper-title-number-1
+venue: 'Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)'
 paperurl: 'http://raaslab.org/pubs/chen2021multi.pdf'
 
 ---
