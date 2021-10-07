@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a **Master's student** in the **Computer Science** Department at the [University of Maryland, College Park](https://www.cs.umd.edu/), 
- advised by **Dr. Pratap Tokekar**. My research intereses lie in solving real-world mobile robotics problems and reinforcement learning.
+ advised by **Dr. Pratap Tokekar**. My research intereses lie in solving real-world mobile robotics problems and machine learning techniques related to robots.
  
  During my master's study, I work as a **Research Assistant** at [The Robotics Algorithms & Autonomous Systems (RAAS) Lab, UMD](http://raaslab.org/index.html) with my advisor Dr. Pratap Tokekar. 
  I also worked as the **Teaching Assistants** for several CS classes from the introductory programming, data structure to the introduction of AI.   
