@@ -16,3 +16,5 @@ I am a **Master's student** in the **Computer Science** Department at the [Unive
  
  Besides working at the school, I did a summer internship as a **Robotics Software Engineer** at [Brain Corp](https://www.braincorp.com/), San Diego, CA, 
  worked on the projects related to the real-world mobile robotic applications deployed in Walmart and Sam's club. 
+ 
+ Please see my [Pubications](https://codingrex.github.io/publications/) and [Projects](https://codingrex.github.io/Porjects/) pages for more details about my work. 
