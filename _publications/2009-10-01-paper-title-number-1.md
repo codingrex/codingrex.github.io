@@ -2,12 +2,10 @@
 title: "Multi-Agent Reinforcement Learning for Visibility-based Persistent Monitoring"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is on evaluating Multi-agent Reinforcement Learning (MARL) for solving Visibiliy-based Persistent Monitoring
- Problem'
-date: 2021-07-01
-venue: 'Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021. '
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Chen, . (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+venue: 'Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021. ' <br />
+[Download paper here](http://raaslab.org/pubs/chen2021multi.pdf) <br />
+[Watch presentation](https://www.youtube.com/watch?v=KpRwpBaBrGQ) <br/>
+
 ---
 [Download paper here](http://raaslab.org/pubs/chen2021multi.pdf) <br />
 [Watch presentation](https://www.youtube.com/watch?v=KpRwpBaBrGQ) <br/>
