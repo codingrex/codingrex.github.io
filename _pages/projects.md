@@ -5,6 +5,14 @@ permalink: /projects/
 author_profile: true
 ---
 
+- ## [Long-term Autonomy of Mobile Robots](https://github.com/codingrex/Long-Term-Autonomy)
+    My Research Assistant project for exploring and solving some real-world mobile robotics problems (in Perception, SLAM, Planning).
+    
+    I started with building up and testing the navigation stack (Perception, SLAM, Motion Planning) on a mobile robot research platform. (based on TurtleBot 2). 
+     
+    <img src="../images/profile.jpg" alt="LTA" width="480"/>
+    
+
 
 - ## [Persistent-Monitoring using Multi-Robot (UAV-UGV) Coordination](https://github.com/VishnuDuttSharma/CMSC818B_MiniProject_2/tree/main/python#persistent-monitoring-using-multi-robot-uav-ugv-coordination)
     *Course project for* ***Decision-Making for Robots (CMSC818B)*** *course at UMD, College Park (Fall 2020)*
