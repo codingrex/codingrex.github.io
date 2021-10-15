@@ -14,7 +14,7 @@ author_profile: true
     <img src="../images/nav.gif" alt="LTA" width="480"/>
 
 
-- ## [Some Fundamental SLAM Algorithm Implementation](https://github.com/codingrex/Long-Term-Autonomy)
+- ## [Some Fundamental SLAM Algorithm Implementation](https://github.com/codingrex/SLAM_Course)
     I learned and implemented some fundamental SLAM algorithms based on the Robot Mapping lecture series from Dr. Cyrill Stachniss.
     
     After doing self-learning on the videos and lecture notes, I learned the basics of what is SLAM, how to do (classic paradigms) and why (Derivation). 
