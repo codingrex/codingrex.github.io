@@ -27,8 +27,8 @@ author_profile: true
     * FastSLAM
     * Graph-based SLAM (front-end, back-end)
     
-    <img src="https://github.com/codingrex/SLAM_Course/blob/main/gridmaps_framework/plots/gridmap.gif" alt="grid_mapping" width="480"/>
-    <img src="https://github.com/codingrex/SLAM_Course/blob/main/lsslam_framework/plots/lsslam_dlr.gif" alt="Graph-based" width="480"/>
+    <img src="../images/gridmap.gif" alt="grid_mapping" width="480"/>
+    <img src="../images/lsslam_dlr.gif" alt="Graph-based" width="480"/>
     
 
 
