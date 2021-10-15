@@ -12,6 +12,23 @@ author_profile: true
      
     <img src="../images/costmap.gif" alt="LTA" width="480"/>
     <img src="../images/nav.gif" alt="LTA" width="480"/>
+
+
+- ## [Some Fundamental SLAM Algorithm Implementation](https://github.com/codingrex/Long-Term-Autonomy)
+    I learned and implemented some fundamental SLAM algorithms based on the Robot Mapping lecture series from Dr. Cyrill Stachniss.
+    
+    After doing self-learning on the videos and lecture notes, I learned the basics of what is SLAM, how to do (classic paradigms) and why (Derivation). 
+    
+    The topics including: 
+    * Odomotery model and Sensor model
+    * Kalman filter family: EFK, UKF 
+    * (Rao-Blackwellized) Particle filter 
+    * Feature-based mapping and Occupancy grid based mapping 
+    * FastSLAM
+    * Graph-based SLAM (front-end, back-end)
+    
+    <img src="https://github.com/codingrex/SLAM_Course/blob/main/gridmaps_framework/plots/gridmap.gif" alt="grid_mapping" width="480"/>
+    <img src="https://github.com/codingrex/SLAM_Course/blob/main/lsslam_framework/plots/lsslam_dlr.gif" alt="Graph-based" width="480"/>
     
 
 
