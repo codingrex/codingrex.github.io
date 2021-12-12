@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 - ## [Long-term Autonomy of Mobile Robots](https://github.com/codingrex/Long-Term-Autonomy)
-    My Research Assistant project for exploring and solving some real-world mobile robotics problems (in Perception, SLAM, Planning).
+    My research project on the intersection of vision and robotics. 
     
-    I started with building up and testing the navigation stack (Perception, SLAM, Motion Planning) on a mobile robot research platform. (based on TurtleBot 2). 
+    Using semantic understanding from vision to improve the real-robot navigation in a glasswall environment.
      
     <img src="../images/mapping.gif" alt="LTA" width="480"/>
     <img src="../images/localization.gif" alt="LTA" width="480"/>
