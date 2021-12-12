@@ -10,8 +10,9 @@ author_profile: true
     
     I started with building up and testing the navigation stack (Perception, SLAM, Motion Planning) on a mobile robot research platform. (based on TurtleBot 2). 
      
-    <img src="../images/costmap.gif" alt="LTA" width="480"/>
-    <img src="../images/nav.gif" alt="LTA" width="480"/>
+    <img src="../images/mapping.gif" alt="LTA" width="480"/>
+    <img src="../images/localization.gif" alt="LTA" width="480"/>
+    <img src="../images/out1.gif" alt="LTA" width="480"/>
 
 
 - ## [Fundamental SLAM Algorithms](https://github.com/codingrex/SLAM_Course)
