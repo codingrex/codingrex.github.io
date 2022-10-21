@@ -5,6 +5,12 @@ permalink: /projects/
 author_profile: true
 ---
 
+- ## [Event-based Human Detection](https://github.com/VishnuDuttSharma/CMSC818B_MiniProject_2/tree/main/python#persistent-monitoring-using-multi-robot-uav-ugv-coordination)
+    Project on using event camera to do the moving human detection in low-latency (200hz) and high dynamic range fashion. 
+     
+    <img src="https://github.com/VishnuDuttSharma/CMSC818B_MiniProject_2/raw/main/python/images/all_algo.gif" alt="persistent monitoring" width="480"/>
+
+
 - ## [Long-term Autonomy of Mobile Robots](https://github.com/codingrex/Long-Term-Autonomy)
     My research project on the intersection of vision and robotics. 
     
@@ -33,11 +39,3 @@ author_profile: true
     
 
 
-- ## [Persistent-Monitoring using Multi-Robot (UAV-UGV) Coordination](https://github.com/VishnuDuttSharma/CMSC818B_MiniProject_2/tree/main/python#persistent-monitoring-using-multi-robot-uav-ugv-coordination)
-    *Course project for* ***Decision-Making for Robots (CMSC818B)*** *course at UMD, College Park (Fall 2020)*
-    
-     Persistent Monitoring in robotics is the problem of monitoring an area in repeated manner. This is useful for applications like monitoring forest fires, where we need to visit the repeatedly to look for signs of fire. This can be done using a team of Unmanned Ground Robots (UGVs). They can avoid overlaps if they know each other's locations. In a case where the communication range is limited, a UAV can be used to communicate such information by patrolling the area independently and sharing the information (or belief) about locations with UGVs.
-     
-     In this project we propose heuristic-based and RL-based strategy to move the UAV to increase the certainty about the location of the UGVs.
-     
-    <img src="https://github.com/VishnuDuttSharma/CMSC818B_MiniProject_2/raw/main/python/images/all_algo.gif" alt="persistent monitoring" width="480"/>
