@@ -33,4 +33,4 @@ I want to do it before the image is formed from the physical world (improving th
 The bio-inspired Neuromorphic camera, Event Camera, provides us a new way of vision that only record the motion information (events) and with low-latency (high time resolution) and high dynamic range feature. 
 This is an example of using this motion information from event camera to do the vision tasks like human detection  
 
-<img src="../images/optics_nav_codesign.PNG" width="780"/>
+<img src="../images/event_human.jpg" width="780"/>
