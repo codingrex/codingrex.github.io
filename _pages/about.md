@@ -18,7 +18,7 @@ I am a **PhD student** in the **Computer Science** Department at the [University
 
 Here are some examples of problems in **Geometry and Motion based Vision** and **Physics-based Vision** that I am trying to solve in my PhD.
 
-### 1. hysics-based Vision:
+### 1. Physics-based Vision:
 A problem can be categorized into **Computational Images + Robotics** . Can we find a better eye design for mobile robot such that it can
 improve the performance for a specific robotic task (like Navigation).
 
