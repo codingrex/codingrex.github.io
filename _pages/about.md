@@ -18,7 +18,7 @@ I am a **PhD student** in the **Computer Science** Department at the [University
 
 Here are some examples of problems in **Geometry and Motion based Vision** and **Physics-based Vision** that I am trying to solve in my PhD.
 
-### Physics-based Vision:
+### 1. hysics-based Vision:
 A problem can be categorized into **Computational Images + Robotics** . Can we find a better eye design for mobile robot such that it can
 improve the performance for a specific robotic task (like Navigation).
 
@@ -26,10 +26,10 @@ Note that this problem is more **fundamental** than just optimizing the **post-p
 I want to do it before the image is formed from the physical world (improving the Imaging step), which is before the post-processing
  step for the fundamental performance improvement to the vision model (and thus the down-stream robotic task) in its input not during the post-processing.
 
-<img src="../images/optics_nav_codesign.PNG" width="480"/>
+<img src="../images/optics_nav_codesign.PNG" width="680"/>
 
 
-### Geometry and Motion based Vision:
+### 2. Geometry and Motion based Vision:
 The bio-inspired Neuromorphic camera, Event Camera, provides us a new way of vision that only record the motion information (events) and with low-latency (high time resolution) and high dynamic range feature. 
 This is an example of using this motion information from event camera to do the vision tasks like human detection  
 
