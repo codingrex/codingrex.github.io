@@ -8,7 +8,7 @@ author_profile: true
 - ## [Event-based Human Detection](https://github.com/VishnuDuttSharma/CMSC818B_MiniProject_2/tree/main/python#persistent-monitoring-using-multi-robot-uav-ugv-coordination)
     Project on using event camera to do the moving human detection in low-latency (200hz) and high dynamic range fashion. 
      
-    <img src="https://drive.google.com/file/d/1fXJRti6p3_eSSe9mBg0uJ7m7voq3eejK/view?usp=sharing" alt="event_human" width="480"/>
+    <img src="../images/event_gif.gif" alt="event_human" width="480"/>
 
 
 - ## [Long-term Autonomy of Mobile Robots](https://github.com/codingrex/Long-Term-Autonomy)
