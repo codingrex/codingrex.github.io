@@ -26,10 +26,11 @@ Note that this problem is more **fundamental** than just optimizing the **post-p
 I want to do it before the image is formed from the physical world (improving the Imaging step), which is before the post-processing
  step for the fundamental performance improvement to the vision model (and thus the down-stream robotic task) in its input not during the post-processing.
 
-<img src="../images/optics_nav_codesign.PNG" width="680"/>
+<img src="../images/optics_nav_codesign.PNG" width="780"/>
 
 
 ### 2. Geometry and Motion based Vision:
 The bio-inspired Neuromorphic camera, Event Camera, provides us a new way of vision that only record the motion information (events) and with low-latency (high time resolution) and high dynamic range feature. 
 This is an example of using this motion information from event camera to do the vision tasks like human detection  
 
+<img src="../images/optics_nav_codesign.PNG" width="780"/>
