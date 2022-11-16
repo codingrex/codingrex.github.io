@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a **PhD student** in the **Computer Science** Department at the [University of Maryland, College Park](https://www.cs.umd.edu/). My research intereses is on the **intersection of vision and robotics**, with a focus on **Geometry and Motion based Vision** and **Physics-based Vision** for robots, also from my personal interest and if possible I prefer the problems and solutions that are **Bio-inspired**.  
+I am a **PhD student** in the **Computer Science** Department at the [University of Maryland, College Park](https://www.cs.umd.edu/) advised by [Prof. Yiannis Aloimonos](http://prg.cs.umd.edu/) and [Cornelia Fermüller](http://prg.cs.umd.edu/) at [Perception and Robotics Group](http://prg.cs.umd.edu/) . My research intereses is on the **intersection of vision and robotics**, with a focus on **Geometry and Motion based Vision** and **Physics-based Vision** for robots, also from my personal interest and if possible I prefer the problems and solutions that are **Bio-inspired**.  
  
  Besides working at the school, I did a summer internship as a **Robotics Software Engineer** at [Brain Corp](https://www.braincorp.com/), San Diego, CA, 
  worked on the projects related to the real-world mobile robotic applications deployed in Walmart and Sam's club. 
