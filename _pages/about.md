@@ -12,7 +12,7 @@ I am a **PhD student** in the **Computer Science** Department at the University 
 
 I am working with Prof. Yiannis Aloimonos and Cornelia Fermüller at [Perception and Robotics Group](https://prg.cs.umd.edu/). 
 
-My research intereses is on the **intersection of vision and robotics**, with a focus on **Geometry and Motion based Vision** and **Physics-based Vision** for robots, also from my personal interest and if possible I prefer the problems and solutions that are **Bio-inspired**.  
+My research intereses is on the **intersection of vision and robotics**, with a focus on **Geometry and Motion based Vision** and **Physics-based Vision** for robots.
  
  Besides working at the school, I did a summer internship as a **Robotics Software Engineer** at [Brain Corp](https://www.braincorp.com/), San Diego, CA, 
  worked on the projects related to the real-world mobile robotic applications deployed in Walmart and Sam's club. 
