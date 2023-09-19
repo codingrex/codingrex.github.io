@@ -1,5 +1,5 @@
 ---
-title: "PMicrosaccade-inspired Event Camera for Robotics"
+title: "Microsaccade-inspired Event Camera for Robotics"
 collection: publications
 permalink: /publication/2023-10-01-paper-title-number-2
 excerpt: 'Botao He, Ze Wang, Yuan Zhou, **Jingxi Chen**, Chahat Deep Singh, Cornelia Fermuller, Yiannis Aloimonos, Chao Xu and Fei Gao'
