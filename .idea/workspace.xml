@@ -24,9 +24,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f44e1f95-60cb-4aed-9dd6-1a6e75b95f6e" name="Default Changelist" comment="">
+    <list default="true" id="f44e1f95-60cb-4aed-9dd6-1a6e75b95f6e" name="Default Changelist" comment="finish">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +43,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CVPR2020_GDNet" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../rl_multi_agent" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -70,7 +69,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666388027765</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="finish">
+      <created>1677205180904</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677205180904</updated>
+    </task>
+    <task id="LOCAL-00003" summary="finish">
+      <created>1677205344760</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1677205344760</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -83,15 +96,25 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add" />
-    <option name="LAST_COMMIT_MESSAGE" value="add" />
+    <MESSAGE value="finish" />
+    <option name="LAST_COMMIT_MESSAGE" value="finish" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="3433" y="129" key="Vcs.Push.Dialog.v2" timestamp="1666388029568">
-      <screen x="2560" y="-305" width="2560" height="1400" />
+    <state x="92" y="92" width="2376" height="1216" key="DiffContextDialog" timestamp="1677205121832">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="3433" y="129" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.-305.2560.1400@2560.-305.2560.1400" timestamp="1666388029568" />
+    <state x="92" y="92" width="2376" height="1216" key="DiffContextDialog/0.0.2560.1400/2560.-305.2560.1400@0.0.2560.1400" timestamp="1677205121832" />
+    <state x="1060" y="455" key="FileChooserDialogImpl" timestamp="1683421400282">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1060" y="455" key="FileChooserDialogImpl/0.0.2560.1400/2560.-305.2560.1400@0.0.2560.1400" timestamp="1683421400282" />
+    <state x="872" y="433" key="Vcs.Push.Dialog.v2" timestamp="1677205360461">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="872" y="433" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.-305.2560.1400@0.0.2560.1400" timestamp="1677205360461" />
   </component>
 </project>
