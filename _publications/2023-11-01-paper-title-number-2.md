@@ -1,9 +1,9 @@
 ---
 title: "ProxMaP: Proximal Occupancy Map Prediction for Efficient Indoor Robot Navigation"
 collection: publications
-permalink: /publication/2023-10-01-paper-title-number-2
+permalink: /publication/2023-11-01-paper-title-number-2
 excerpt: 'Vishnu Dutt Sharma, **Jingxi Chen**, Pratap Tokekar'
-venue: 'Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS** 2023)'
+venue: 'Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023)'
 paperurl: 'https://arxiv.org/abs/2203.04177'
 
 ---

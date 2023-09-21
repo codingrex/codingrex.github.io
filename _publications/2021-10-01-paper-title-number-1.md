@@ -3,7 +3,7 @@ title: "Multi-Agent Reinforcement Learning for Visibility-based Persistent Monit
 collection: publications
 permalink: /publication/2021-10-01-paper-title-number-1
 excerpt: '**Jingxi Chen**, Amrish Baskaran, Zhongshun Zhang, and Pratap Tokekar'
-venue: 'Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS** 2021)'
+venue: 'Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2021)'
 paperurl: 'http://raaslab.org/pubs/chen2021multi.pdf'
 
 ---

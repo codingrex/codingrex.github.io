@@ -3,7 +3,7 @@ title: "Microsaccade-inspired Event Camera for Robotics"
 collection: publications
 permalink: /publication/2023-10-01-paper-title-number-1
 excerpt: 'Botao He, Ze Wang, Yuan Zhou, **Jingxi Chen**, Chahat Deep Singh, Cornelia Fermuller, Yiannis Aloimonos, Chao Xu and Fei Gao'
-venue: '**Science Robotics** (Under Review)'
+venue: 'Science Robotics (Under Review)'
 paperurl: 'https://bottle101.github.io/assets/publications/Report_RotatingWedgePrimEventCam.pdf'
 
 ---
