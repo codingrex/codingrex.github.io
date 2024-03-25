@@ -63,8 +63,8 @@
 
 
 - id: MARL
-  title: "Proxmap: Proximal occupancy map prediction for efficient indoor robot navigation"
-  venue: 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+  title: "Multi-Agent Reinforcement Learning for Visibility-based Persistent Monitoring"
+  venue: 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
   description: "We present a Multi-Agent Reinforcement Learning (MARL) algorithm for the Visibility-based Persistent Monitoring (VPM) problem. "
   image: marl.png
   image_mouseover: marl.mp4
