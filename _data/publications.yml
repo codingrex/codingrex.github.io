@@ -49,3 +49,29 @@
     - metzler
     - Yiannis
 
+
+- id: Occupancy
+  title: "Proxmap: Proximal occupancy map prediction for efficient indoor robot navigation"
+  venue: 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+  description: "We present a self-supervised occupancy prediction technique, ProxMaP, to predict the occupancy within the proximity of the robot to enable faster navigation."
+  image: occupancy.png
+  authors:
+    - Vishnu
+    - jxchen
+    - Pratap
+  project_page: https://raaslab.org/projects/ProxMaP/
+
+
+- id: MARL
+  title: "Proxmap: Proximal occupancy map prediction for efficient indoor robot navigation"
+  venue: 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+  description: "We present a Multi-Agent Reinforcement Learning (MARL) algorithm for the Visibility-based Persistent Monitoring (VPM) problem. "
+  image: marl.png
+  image_mouseover: marl.mp4
+  authors:
+    - jxchen*
+    - Amrish*
+    - Zhongshun
+    - Pratap
+  pdf: https://ieeexplore.ieee.org/abstract/document/9635898
+  
