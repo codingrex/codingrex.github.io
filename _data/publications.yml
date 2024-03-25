@@ -5,7 +5,7 @@
   image: timerewind.png
   image_mouseover: timerewind.mp4
   authors:
-    - jingxi
+    - jxchen
     - brandonyfeng
     - Haoming
     - mingyang
@@ -16,13 +16,13 @@
 
 - id: convrt
   title: "ConVRT: Consistent Video Restoration Through Turbulence with Test-time Optimization"
-  venue: Under Review, 2024
+  venue: arXiv, 2024
   description: "ConVRT is an efficient INR framework for video-based turbulence mitigation that operates in test-time optimization manner"
   image: convrt.png
   image_mouseover: convrt.mp4
   authors:
     - Haoming*
-    - jingxi*
+    - jxchen*
     - brandonyfeng
     - Weiyun
     - mingyang
@@ -30,4 +30,22 @@
     - Ashok
     - metzler
   project_page: https://convrt-2024.github.io/
+
+
+
+- id: CodedEvents
+  title: "CodedEvents: Optimal Point-Spread-Function Engineering for 3D-Tracking with Event Cameras"
+  venue: CVPR, 2024
+  venue_url: https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
+  description: "CodedEvents is a novel method for optimal point-spread-function engineering for 3D-tracking with event cameras."
+  image: CodedEvent.png
+  authors:
+    - Sachin
+    - Matt
+    - Haoming
+    - jxchen
+    - Sakshum
+    - Chahat
+    - metzler
+    - Yiannis
 
