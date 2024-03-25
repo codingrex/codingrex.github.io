@@ -1,0 +1,33 @@
+- id: TimeRewind
+  title: "TimeRewind: Rewinding Time with Image-and-Events Video Diffusion"
+  venue: Under Review, 2024
+  description: "TimeRewind synthesizes the video backward into the pre-capture time with image-and-events video diffusion."
+  image: timerewind.png
+  image_mouseover: timerewind.mp4
+  authors:
+    - jingxi
+    - brandonyfeng
+    - Haoming
+    - mingyang
+    - metzler
+    - Cornelia
+    - Yiannis
+  project_page: https://timerewind.github.io/
+
+- id: convrt
+  title: "ConVRT: Consistent Video Restoration Through Turbulence with Test-time Optimization"
+  venue: Under Review, 2024
+  description: "ConVRT is an efficient INR framework for video-based turbulence mitigation that operates in test-time optimization manner"
+  image: convrt.png
+  image_mouseover: convrt.mp4
+  authors:
+    - Haoming*
+    - jingxi*
+    - brandonyfeng
+    - Weiyun
+    - mingyang
+    - Kevin
+    - Ashok
+    - metzler
+  project_page: https://convrt-2024.github.io/
+

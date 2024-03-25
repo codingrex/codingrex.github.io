@@ -1,18 +1,131 @@
-# Authors
+jxchen:
+  first_name: Jingxi
+  middle_name: 
+  last_name: Chen
+  website: https://codingrex.github.io/
+  is_me: true
+jxchen*:
+  first_name: Jingxi
+  middle_name: 
+  last_name: Chen*
+  website: https://codingrex.github.io/
+  is_me: true
 
-Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
 
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+brandonyfeng:
+  first_name: Brandon
+  middle_name: Y.
+  last_name: Feng
+  website: https://brandonyfeng.github.io/
+
+
+mingyang:
+  first_name: Mingyang
+  last_name: Xie
+  website: https://scholar.google.com/citations?user=2x41vmkAAAAJ&hl=en
+
+
+
+Haoming:
+  first_name: Haoming
+  last_name: Cai
+  website: https://www.haomingcai.com/
+
+
+Haoming*:
+  first_name: Haoming
+  last_name: Cai*
+  website: https://www.haomingcai.com/
+
+
+metzler:
+  first_name: Christopher
+  middle_name: A.
+  last_name: Metzler
+  website: http://www.cs.umd.edu/~metzler/
+
+
+Vishnu:
+  first_name: Vishnu
+  middle_name: D.
+  last_name: Sharma
+  website: https://vishnuduttsharma.github.io/
+
+
+Amrish:
+  first_name: Amrish
+  last_name: Baskaran
+  website: https://www.linkedin.com/in/amrishb/
+
+
+Amrish*:
+  first_name: Amrish
+  last_name: Baskaran*
+  website: https://www.linkedin.com/in/amrishb/
+
+
+
+
+Zhongshun:
+  first_name: Zhongshun
+  last_name: Zhang
+  website: https://sites.google.com/site/zhangzhongshun1990/
+
+
+
+Pratap:
+  first_name: Pratap
+  last_name: Tokekar
+  website: http://tokekar.com/
+
+
+
+
+Chahat:
+  first_name: Chahat
+  middle_name: D.
+  last_name: Singh
+  website: https://chahatdeep.github.io/#home
+
+
+
+Yiannis:
+  first_name: Yiannis
+  last_name: Aloimonos
+  website: https://robotics.umd.edu/clark/faculty/350/Yiannis-Aloimonos
+
+
+Cornelia:
+  first_name: Cornelia
+  last_name: Fermüller
+  website: http://users.umiacs.umd.edu/~fer/
+
+
+
+Weiyun:
+  first_name: Weiyun
+  last_name: Jiang
+  website: https://www.linkedin.com/in/wyjiang/
+
+
+Kevin:
+  first_name: Kevin
+  middle_name: W.
+  last_name: Zhang
+  website: https://kevinwzhang.com/
+
+
+
+Ashok:
+  first_name: Ashok
+  last_name: Veeraraghavan
+  website: https://profiles.rice.edu/faculty/ashok-veeraraghavan
+
+
+
+
+
+
+
+
+

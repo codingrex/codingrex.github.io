@@ -1,0 +1,17 @@
+- name: University of Maryland 
+  description: >-
+    Ph.D. in Computer Science.
+  dates: 2022 - 2027
+  location: College Park, MD
+
+- name: University of Maryland 
+  description: >-
+    M.S. in Computer Science.
+  dates: 2020 - 2022
+  location: College Park, MD
+
+- name: University of Maryland 
+  description: >-
+    B.S. in Computer Science.
+  dates: 2017 - 2020
+  location: College Park, MD

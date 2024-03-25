@@ -1,0 +1,186 @@
+---
+layout: null
+---
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+  <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+
+  <meta content="width=device-width, initial-scale=1" name="viewport">
+  <title>{{ site.name }}</title>
+
+  <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=Google+Sans:wght@700&family=Noto+Sans:wght@400;500;600;700&display=swap">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <link href="{{ '/css/bulma.min.css' | relative_url }}" rel="stylesheet">
+  <link href="{{ '/css/index.css' | relative_url }}" rel="stylesheet">
+  <link rel="icon" href="images/battery-charging.svg" type="image/svg+xml" />
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+  <script src="{{ '/js/index.js' | relative_url }}"></script>
+</head>
+
+<body>
+
+  <section class="hero">
+    <div class="hero-body container is-max-desktop">
+      <div class="columns is-vcentered">
+
+        <div class="column is-4">
+          <div class="portrait">
+            <img src="{{ '/images/headshot.jpg' | relative_url }}" />
+          </div>
+        </div>
+
+        <div class="column">
+          <h1 class="title">
+            <b>{{ site.name }}</b>
+          </h1>
+          <div class="content has-text-justified">
+            {{ site.description | markdownify }}
+            <div class="buttons">
+
+              <a class="external-link button is-light"
+                href="https://scholar.google.com/citations?user={{ site.google_scholar }}&view_op=list_works&sortby=pubdate">
+                <span class="icon"><i class="ai ai-google-scholar ai-2x"></i></span>
+                <span>Google Scholar</span>
+              </a>
+
+              <a class="external-link button is-light" href="Jingxi_Cv_Phd.pdf">
+                <span class="icon"><i class="fa fa-sticky-note"></i></span>
+                <span>CV</span>
+              </a>
+
+              <a class="external-link button is-light" href="https://www.linkedin.com/in/jingxi-chen-262b16202/">
+                <span class="icon"><i class="fa fa-linkedin"></i></span>
+                <span>LinkedIn</span>
+              </a>
+
+              <a class="external-link button is-light" href="mailto:ianchen@umd.edu">
+                <span class="icon"><i class="fa fa-envelope"></i></span>
+                <span>Email</span>
+              </a>
+
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  <section class="section">
+    <div class="container is-max-desktop">
+
+      <h2 class="title is-3">Publications</h2>
+
+      {% for publication in site.data.publications %}
+      <div class="publication-block columns">
+
+        <div class="column is-2">
+          {% if publication.image contains ".mp4" %}
+          <div class="publication-image {% if publication.image_mouseover %}publication-mousecell2{% endif %}">
+            <video autoplay preload playsinline id="vid_front" class="" height="100%" auto loop muted width="100%">
+              <source src="./images/{{ publication.image }}" type="video/mp4">
+              Your browser does not support the video tag.
+            </video>
+            <video autoplay preload playsinline id="vid_back" class="" height="100%" auto loop muted width="100%"
+              style="display:none">
+              <source src="./images/{{ publication.image_mouseover }}" type="video/mp4">
+              Your browser does not support the video tag.
+            </video>
+          </div>
+          {% else %}
+          <div class="publication-image {% if publication.image_mouseover %}publication-mousecell{% endif %}">
+            <video autoplay preload playsinline class="" height="100%" auto loop muted width="100%">
+              <source src="./images/{{ publication.image_mouseover }}" type="video/mp4">
+              Your browser does not support the video tag.
+            </video>
+            <img alt="{{ publication.title }}" src="./images/{{ publication.image }}" />
+          </div>
+          {% endif %}
+        </div>
+
+        <div class="column">
+          <div class="content">
+            <h3 class="publication-title">{{ publication.title }}</h3>
+            <div class="publication-authors">
+              {% for author_id in publication.authors %}
+              {% assign author = site.data.authors[author_id] %}
+
+              <span class="author-block {% if author.is_me %}author-me{% endif %}">
+                {% if author.is_me %}
+                {{ author.first_name }} {{author.middle_name}} {{ author.last_name }}{% if forloop.last == false %},{%
+                endif %}
+                {% else %}
+                <a href="{{ author.website }}">{{ author.first_name }} {{ author.middle_name }} {{ author.last_name
+                  }}</a>{% if forloop.last == false %},{% endif %}
+                {% endif %}
+              </span>
+              {% endfor %}
+            </div>
+            <div class="publication-venue">
+              <a href="{{ publication.venue_url }}">{{ publication.venue }}</a>
+              <span class="publication-acc-rate">{{ publication.acceptance_rate }}</span>
+              <span class="publication-venue-emph">
+                <a href="{{ publication.award_url }}" style="color: firebrick;">{{ publication.award }}</a>
+              </span>
+            </div>
+            <p class="publication-description">{{ publication.description }}</p>
+            <!-- Publication Links. -->
+            <div class="publication-links buttons field has-addons">
+              {% if publication.project_page %}
+              <a class="external-link button is-small is-ghost" href="{{ publication.project_page }}">
+                <span class="icon"><i class="fa fa-globe"></i></span>
+                <span>Project Page</span>
+              </a>
+              {% endif %}
+
+              {% if publication.doi %}
+              <a class="external-link button is-small is-ghost" href="{{ publication.doi }}">
+                <span class="icon"><i class="fa fa-book" aria-hidden="true"></i></span>
+                <span>In Print</span>
+              </a>
+              {% endif %}
+
+              {% if publication.pdf %}
+              <a class="external-link button is-small is-ghost" href="{{ publication.pdf }}">
+                <span class="icon"><i class="fa fa-file-pdf-o"></i></span>
+                <span>PDF</span>
+              </a>
+              {% endif %}
+
+              {% if publication.github %}
+              <a class="external-link button is-small is-ghost" href="https://github.com/{{ publication.github }}">
+                <span class="icon"><i class="fa fab fa-github"></i></span>
+                <span>Code</span>
+              </a>
+              {% endif %}
+            </div>
+            <!--/ Publication Links. -->
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </section>
+
+  <br>
+  <div class="columns is-centered has-text-right">
+    <div class="column is-8">
+      <div class="content">
+        <p>
+          <small><small>
+              Template from <a href="https://keunhong.com/">Keunhong Park</a>
+            </small></small>
+        </p>
+      </div>
+    </div>
+  </div>
+
+</body>
+
+</html>
