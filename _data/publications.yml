@@ -15,18 +15,18 @@
   project_page: https://timerewind.github.io/
 
 
-# - id: DroneHuman
-#   title: "DroneHuman: Human-Drone Interaction with Event Cameras"
-#   venue: 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
-#   description: "We leverage radiance fields to imagine different human views to find the best drone pose for aerial cinematography."
-#   image: DroneHuman.png
-#   authors:
-#     - jxchen
-#     - Botao
-#     - Chahat
-#     - Cornelia
-#     - Yiannis
-#   project_page: https://codingrex.github.io/UAV_ActiveHPE/
+- id: DroneHuman
+  title: "DroneHuman: Human-Drone Interaction with Event Cameras"
+  venue: 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+  description: "We leverage radiance fields to imagine different human views to find the best drone pose for aerial cinematography."
+  image: DroneHuman.png
+  authors:
+    - jxchen
+    - Botao
+    - Chahat
+    - Cornelia
+    - Yiannis
+  project_page: https://codingrex.github.io/UAV_ActiveHPE/
 
 
 - id: convrt
@@ -47,26 +47,26 @@
   project_page: https://convrt-2024.github.io/
 
 
-# - id: AMEI
-#   venue: Science Robotics, 2024
-#   description: "Inspired by microsaccades, we designed an event-based perception system capable of simultaneously maintaining low reaction time and stable texture."
-#   image: SR.png
-#   authors:
-#     - Botao
-#     - ZeWang
-#     - YuanZhou
-#     - jxchen
-#     - Chahat
-#     - Haojia
-#     - Yuman
-#     - Shaojie
-#     - Kaiwei
-#     - Yanjun
-#     - Chao
-#     - Yiannis
-#     - FeiGao
-#     - Cornelia
-#   project_page: https://codingrex.github.io/UAV_ActiveHPE/
+- id: AMEI
+  venue: Science Robotics, 2024
+  description: "Inspired by microsaccades, we designed an event-based perception system capable of simultaneously maintaining low reaction time and stable texture."
+  image: SR.png
+  authors:
+    - Botao
+    - ZeWang
+    - YuanZhou
+    - jxchen
+    - Chahat
+    - Haojia
+    - Yuman
+    - Shaojie
+    - Kaiwei
+    - Yanjun
+    - Chao
+    - Yiannis
+    - FeiGao
+    - Cornelia
+  project_page: https://codingrex.github.io/UAV_ActiveHPE/
 
 - id: CodedEvents
   title: "CodedEvents: Optimal Point-Spread-Function Engineering for 3D-Tracking with Event Cameras"
