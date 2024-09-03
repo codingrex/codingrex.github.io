@@ -47,26 +47,26 @@
   project_page: https://convrt-2024.github.io/
 
 
-- id: AMEI
-  venue: Science Robotics, 2024
-  description: "Inspired by microsaccades, we designed an event-based perception system capable of simultaneously maintaining low reaction time and stable texture."
-  image: SR.png
-  authors:
-    - Botao
-    - ZeWang
-    - YuanZhou
-    - jxchen
-    - Chahat
-    - Haojia
-    - Yuman
-    - Shaojie
-    - Kaiwei
-    - Yanjun
-    - Chao
-    - Yiannis
-    - FeiGao
-    - Cornelia
-  project_page: https://codingrex.github.io/UAV_ActiveHPE/
+# - id: AMEI
+#   venue: Science Robotics, 2024
+#   description: "Inspired by microsaccades, we designed an event-based perception system capable of simultaneously maintaining low reaction time and stable texture."
+#   image: SR.png
+#   authors:
+#     - Botao
+#     - ZeWang
+#     - YuanZhou
+#     - jxchen
+#     - Chahat
+#     - Haojia
+#     - Yuman
+#     - Shaojie
+#     - Kaiwei
+#     - Yanjun
+#     - Chao
+#     - Yiannis
+#     - FeiGao
+#     - Cornelia
+#   project_page: https://codingrex.github.io/UAV_ActiveHPE/
 
 - id: CodedEvents
   title: "CodedEvents: Optimal Point-Spread-Function Engineering for 3D-Tracking with Event Cameras"
