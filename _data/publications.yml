@@ -49,6 +49,7 @@
 
 - id: AMEI
   venue: Science Robotics, 2024
+  venue_url: https://www.science.org/doi/10.1126/scirobotics.adj8124
   description: "Inspired by microsaccades, we designed an event-based perception system capable of simultaneously maintaining low reaction time and stable texture."
   image: SR.jpeg
   authors:
