@@ -16,7 +16,7 @@
 
 
 - id: DroneHuman
-  title: "DroneHuman: Human-Drone Interaction with Event Cameras"
+  title: "Active Human Pose Estimation via an Autonomous UAV Agent"
   venue: 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
   description: "We leverage radiance fields to imagine different human views to find the best drone pose for aerial cinematography."
   image: DroneHuman.png
