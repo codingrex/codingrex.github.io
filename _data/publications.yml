@@ -1,3 +1,23 @@
+- id: convrt
+  title: "ConVRT: Consistent Video Restoration Through Turbulence with Test-time Optimization"
+  venue: The Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024)
+  description: "ConVRT is an efficient INR framework for video-based turbulence mitigation that operates in test-time optimization manner"
+  image: convrt.png
+  image_mouseover: convrt.mp4
+  authors:
+    - Haoming*
+    - jxchen*
+    - brandonyfeng
+    - Weiyun
+    - mingyang
+    - Kevin
+    - Ashok
+    - metzler
+  # project_page: https://convrt-2024.github.io/
+
+
+
+
 - id: TimeRewind
   title: "TimeRewind: Rewinding Time with Image-and-Events Video Diffusion"
   venue: Under Review, 2024
@@ -28,23 +48,6 @@
     - Yiannis
   project_page: https://codingrex.github.io/UAV_ActiveHPE/
 
-
-- id: convrt
-  title: "ConVRT: Consistent Video Restoration Through Turbulence with Test-time Optimization"
-  venue: Under Review, 2024
-  description: "ConVRT is an efficient INR framework for video-based turbulence mitigation that operates in test-time optimization manner"
-  image: convrt.png
-  image_mouseover: convrt.mp4
-  authors:
-    - Haoming*
-    - jxchen*
-    - brandonyfeng
-    - Weiyun
-    - mingyang
-    - Kevin
-    - Ashok
-    - metzler
-  project_page: https://convrt-2024.github.io/
 
 
 - id: AMEI
