@@ -1,5 +1,5 @@
 - id: convrt
-  title: "ConVRT: Consistent Video Restoration Through Turbulence with Test-time Optimization"
+  title: "Temporally Consistent Atmospheric Turbulence Mitigation with Neural Representations"
   venue: The Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024)
   description: "ConVRT is an efficient INR framework for video-based turbulence mitigation that operates in test-time optimization manner"
   image: convrt.png
