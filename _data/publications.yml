@@ -1,3 +1,23 @@
+- id: TimeRewind
+  title: "Repurposing Pre-trained Video Diffusion Models for Event-based Video Interpolation"
+  venue: Under Review, 2024
+  description: "In this work, we adapt pre-trained video diffusion models trained on internet-scale datasets to solve the specialized real-world video task of event-based video interpolation."
+  image: RE-VDM.png
+  image_mouseover: RE-VDM.mp4
+  authors:
+    - jxchen
+    - brandonyfeng
+    - Haoming
+    - Tianfu
+    - Levi
+    - Dehao
+    - Cornelia
+    - metzler
+    - Yiannis
+  project_page: https://vdm-evfi.github.io/
+
+
+
 - id: convrt
   title: "Temporally Consistent Atmospheric Turbulence Mitigation with Neural Representations"
   venue: The Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024)
@@ -15,26 +35,8 @@
     - Yiannis
     - Ashok
     - metzler
-  # project_page: https://convrt-2024.github.io/
+  project_page: https://intelligent-sensing.github.io/papers/ConVRT.html
 
-
-
-
-- id: TimeRewind
-  title: "TimeRewind: Rewinding Time with Image-and-Events Video Diffusion"
-  venue: Under Review, 2024
-  description: "TimeRewind synthesizes the video backward into the pre-capture time with image-and-events video diffusion."
-  image: timerewind.png
-  image_mouseover: timerewind.mp4
-  authors:
-    - jxchen
-    - brandonyfeng
-    - Haoming
-    - mingyang
-    - metzler
-    - Cornelia
-    - Yiannis
-  project_page: https://timerewind.github.io/
 
 
 - id: DroneHuman
