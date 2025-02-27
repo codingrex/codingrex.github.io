@@ -1,6 +1,7 @@
 - id: TimeRewind
   title: "Repurposing Pre-trained Video Diffusion Models for Event-based Video Interpolation"
   venue: Conference on Computer Vision and Pattern Recognition (CVPR), 2025
+  venue_url: https://cvpr.thecvf.com/
   description: "In this work, we adapt pre-trained video diffusion models trained on internet-scale datasets to solve the specialized real-world video task of event-based video interpolation."
   image: REVDM.PNG
   image_mouseover: REVDM.mp4
@@ -21,6 +22,7 @@
 - id: convrt
   title: "Temporally Consistent Atmospheric Turbulence Mitigation with Neural Representations"
   venue: The Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024)
+  venue_url: https://neurips.cc/
   description: "ConVRT is an efficient INR framework for video-based turbulence mitigation that operates in test-time optimization manner"
   image: convrt.png
   image_mouseover: convrt.mp4
