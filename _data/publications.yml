@@ -1,6 +1,6 @@
 - id: TimeRewind
   title: "Repurposing Pre-trained Video Diffusion Models for Event-based Video Interpolation"
-  venue: Under Review, 2024
+  venue: Conference on Computer Vision and Pattern Recognition (CVPR), 2025
   description: "In this work, we adapt pre-trained video diffusion models trained on internet-scale datasets to solve the specialized real-world video task of event-based video interpolation."
   image: REVDM.PNG
   image_mouseover: REVDM.mp4
@@ -79,7 +79,7 @@
 
 - id: CodedEvents
   title: "CodedEvents: Optimal Point-Spread-Function Engineering for 3D-Tracking with Event Cameras"
-  venue: CVPR, 2024
+  venue: Conference on Computer Vision and Pattern Recognition (CVPR), 2024
   venue_url: https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
   description: "CodedEvents is a novel method for optimal point-spread-function engineering for 3D-tracking with event cameras."
   image: CodedEvent.png
