@@ -1,3 +1,24 @@
+- id: FFGo
+  title: "First Frame Is the Place to Go for Video Content Customization"
+  venue: Under Review, 2025
+  venue_url: https://firstframego.github.io/
+  description: "In this work, we uncover a new perspective on video generation: the first frame acts as a conceptual memory buffer. Leveraging this insight, we achieve robust and generalized video content customization with just 20–50 training examples."
+  image: 31_combined.png
+  image_mouseover: potter_3obj.mp4
+  authors:
+    - jxchen
+    - Zongxia
+    - Zhichao
+    - Guangyao
+    - Xiyang
+    - Fuxiao
+    - Cornelia
+    - brandonyfeng
+    - Yiannis
+  project_page: https://firstframego.github.io/
+
+
+
 - id: TimeRewind
   title: "Repurposing Pre-trained Video Diffusion Models for Event-based Video Interpolation"
   venue: Conference on Computer Vision and Pattern Recognition (CVPR), 2025
