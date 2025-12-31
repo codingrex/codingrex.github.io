@@ -40,6 +40,23 @@
 
 
 
+  - id: GenImageLayer
+  title: "From Inpainting to Layer Decomposition: Repurposing Generative Inpainting Models for Image Layer Decomposition"
+  venue:  Under Review, 2025
+  description: "Diffusion-based Image Layer Decomposition with a unified token-to-token model. Work done during my summer internship at Amazon Prime Video team."
+  image: GenImage.png
+  authors:
+    - jxchen
+    - Yixiao
+    - Xiaoye
+    - Zongxia
+    - Cornelia
+    - Caren
+    - Yiannis
+  pdf: https://arxiv.org/pdf/2511.20996
+
+
+
 - id: convrt
   title: "Temporally Consistent Atmospheric Turbulence Mitigation with Neural Representations"
   venue: The Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024)
