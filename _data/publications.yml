@@ -45,6 +45,7 @@
   venue:  Under Review, 2025
   description: "Diffusion-based Image Layer Decomposition with a unified token-to-token model. Work done during my summer internship at Amazon Prime Video team."
   image: GenImage.png
+  image_mouseover: GenImage.png
   authors:
     - jxchen
     - Yixiao
