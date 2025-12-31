@@ -45,7 +45,7 @@
   venue:  Under Review, 2025
   description: "Diffusion-based Image Layer Decomposition with a unified token-to-token model. Work done during my summer internship at Amazon Prime Video team."
   image: GenImage.png
-  image_mouseover: GenImage.png
+  image_mouseover: GenImage.mp4
   authors:
     - jxchen
     - Yixiao
@@ -85,6 +85,7 @@
   venue: 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
   description: "We leverage radiance fields to imagine different human views to find the best drone pose for aerial cinematography."
   image: DroneHuman.png
+  image_mouseover: DroneHuman.png
   authors:
     - jxchen
     - Botao
@@ -101,6 +102,7 @@
   venue_url: https://www.science.org/doi/10.1126/scirobotics.adj8124
   description: "Inspired by microsaccades, we designed an event-based perception system capable of simultaneously maintaining low reaction time and stable texture."
   image: SR.jpeg
+  image_mouseover: SR.mp4
   authors:
     - Botao
     - ZeWang
@@ -124,6 +126,7 @@
   venue_url: https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
   description: "CodedEvents is a novel method for optimal point-spread-function engineering for 3D-tracking with event cameras."
   image: CodedEvent.png
+  image_mouseover: CodedEvent.png
   authors:
     - Sachin
     - Matt
@@ -141,6 +144,7 @@
   venue: 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
   description: "We present a self-supervised occupancy prediction technique, ProxMaP, to predict the occupancy within the proximity of the robot to enable faster navigation."
   image: occupancy.png
+  image_mouseover: occupancy.png
   authors:
     - Vishnu
     - jxchen
