@@ -40,7 +40,7 @@
 
 
 
-  - id: GenImageLayer
+- id: GenImageLayer
   title: "From Inpainting to Layer Decomposition: Repurposing Generative Inpainting Models for Image Layer Decomposition"
   venue:  Under Review, 2025
   description: "Diffusion-based Image Layer Decomposition with a unified token-to-token model. Work done during my summer internship at Amazon Prime Video team."
