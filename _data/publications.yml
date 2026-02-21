@@ -1,6 +1,6 @@
 - id: FFGo
   title: "First Frame Is the Place to Go for Video Content Customization"
-  venue: Under Review, 2025
+  venue: Conference on Computer Vision and Pattern Recognition (CVPR), 2026
   venue_url: https://firstframego.github.io/
   description: "In this work, we uncover a new perspective on video generation: the first frame acts as a conceptual memory buffer. Leveraging this insight, we achieve robust and generalized video content customization with just 20–50 training examples."
   image: 31_combined.png
@@ -16,6 +16,23 @@
     - brandonyfeng
     - Yiannis
   project_page: https://firstframego.github.io/
+
+
+- id: GenImageLayer
+  title: "From Inpainting to Layer Decomposition: Repurposing Generative Inpainting Models for Image Layer Decomposition"
+  venue:  Conference on Computer Vision and Pattern Recognition (CVPR), 2026
+  description: "Diffusion-based Image Layer Decomposition with a unified token-to-token model. Work done during my summer internship at Amazon Prime Video team."
+  image: GenImage.png
+  image_mouseover: GenImage.mp4
+  authors:
+    - jxchen
+    - Yixiao
+    - Xiaoye
+    - Zongxia
+    - Cornelia
+    - Caren
+    - Yiannis
+  pdf: https://arxiv.org/pdf/2511.20996
 
 
 
@@ -39,22 +56,6 @@
   project_page: https://vdm-evfi.github.io/
 
 
-
-- id: GenImageLayer
-  title: "From Inpainting to Layer Decomposition: Repurposing Generative Inpainting Models for Image Layer Decomposition"
-  venue:  Under Review, 2025
-  description: "Diffusion-based Image Layer Decomposition with a unified token-to-token model. Work done during my summer internship at Amazon Prime Video team."
-  image: GenImage.png
-  image_mouseover: GenImage.mp4
-  authors:
-    - jxchen
-    - Yixiao
-    - Xiaoye
-    - Zongxia
-    - Cornelia
-    - Caren
-    - Yiannis
-  pdf: https://arxiv.org/pdf/2511.20996
 
 
 
