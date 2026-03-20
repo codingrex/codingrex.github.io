@@ -2,7 +2,7 @@
   title: "First Frame Is the Place to Go for Video Content Customization"
   venue: Conference on Computer Vision and Pattern Recognition (CVPR), 2026
   venue_url: https://firstframego.github.io/
-  description: "In this work, we uncover a new perspective on video generation: the first frame acts as a conceptual memory buffer. Leveraging this insight, we achieve robust and generalized video content customization with just 20–50 training examples."
+  description: "This work studies controlled video generation by composing content from multiple reference images. We propose a novel and efficient formulation that leverages the in-context capabilities of pre-trained video generation models."
   image: 31_combined.png
   image_mouseover: potter_3obj.mp4
   authors:
@@ -32,7 +32,7 @@
     - Cornelia
     - Caren
     - Yiannis
-  pdf: https://arxiv.org/pdf/2511.20996
+  project_page:  https://inpaintinglayerdecomp.github.io/
 
 
 
