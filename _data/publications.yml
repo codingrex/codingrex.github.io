@@ -1,7 +1,14 @@
+# Selected publications, newest first.
+#
+# image:            thumbnail in images/ (also the video poster)
+# image_mouseover:  optional .mp4 in images/; when present it autoplays in place of the image
+# authors:          ids from _data/authors.yml
+# project_page / pdf / doi / github:  optional links, shown as buttons
+# award:            optional highlight shown after the venue
+
 - id: FFGo
   title: "First Frame Is the Place to Go for Video Content Customization"
-  venue: Conference on Computer Vision and Pattern Recognition (CVPR), 2026
-  venue_url: https://firstframego.github.io/
+  venue: CVPR 2026
   description: "This work studies controlled video generation by composing content from multiple reference images. We propose a novel and efficient formulation that leverages the in-context capabilities of pre-trained video generation models."
   image: 31_combined.png
   image_mouseover: potter_3obj.mp4
@@ -16,11 +23,12 @@
     - brandonyfeng
     - Yiannis
   project_page: https://firstframego.github.io/
+  pdf: https://arxiv.org/pdf/2511.15700
 
 
 - id: GenImageLayer
   title: "From Inpainting to Layer Decomposition: Repurposing Generative Inpainting Models for Image Layer Decomposition"
-  venue:  Conference on Computer Vision and Pattern Recognition (CVPR), 2026
+  venue: CVPR 2026
   description: "Diffusion-based Image Layer Decomposition with a unified token-to-token model. Work done during my summer internship at Amazon Prime Video team."
   image: GenImage.png
   image_mouseover: GenImage.mp4
@@ -32,14 +40,13 @@
     - Cornelia
     - Caren
     - Yiannis
-  project_page:  https://inpaintinglayerdecomp.github.io/
-
+  project_page: https://inpaintinglayerdecomp.github.io/
+  pdf: https://arxiv.org/abs/2511.20996
 
 
 - id: TimeRewind
   title: "Repurposing Pre-trained Video Diffusion Models for Event-based Video Interpolation"
-  venue: Conference on Computer Vision and Pattern Recognition (CVPR), 2025
-  venue_url: https://cvpr.thecvf.com/
+  venue: CVPR 2025
   description: "In this work, we adapt pre-trained video diffusion models trained on internet-scale datasets to solve the specialized real-world video task of event-based video interpolation."
   image: REVDM.PNG
   image_mouseover: REVDM.mp4
@@ -56,14 +63,10 @@
   project_page: https://vdm-evfi.github.io/
 
 
-
-
-
 - id: convrt
   title: "Temporally Consistent Atmospheric Turbulence Mitigation with Neural Representations"
-  venue: The Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024)
-  venue_url: https://neurips.cc/
-  description: "ConVRT is an efficient INR framework for video-based turbulence mitigation that operates in test-time optimization manner"
+  venue: NeurIPS 2024
+  description: "ConVRT is an efficient INR framework for video-based turbulence mitigation that operates in test-time optimization manner."
   image: convrt.png
   image_mouseover: convrt.mp4
   authors:
@@ -80,13 +83,11 @@
   project_page: https://convrt-2024.github.io/
 
 
-
 - id: DroneHuman
   title: "Active Human Pose Estimation via an Autonomous UAV Agent"
-  venue: 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+  venue: IROS 2024
   description: "We leverage radiance fields to imagine different human views to find the best drone pose for aerial cinematography."
   image: DroneHuman.png
-  image_mouseover: DroneHuman.png
   authors:
     - jxchen
     - Botao
@@ -96,11 +97,9 @@
   project_page: https://codingrex.github.io/UAV_ActiveHPE/
 
 
-
 - id: AMEI
   title: "Microsaccade-inspired Event Camera for Robotics"
   venue: Science Robotics, 2024
-  venue_url: https://www.science.org/doi/10.1126/scirobotics.adj8124
   description: "Inspired by microsaccades, we designed an event-based perception system capable of simultaneously maintaining low reaction time and stable texture."
   image: SR.jpeg
   image_mouseover: SR.mp4
@@ -120,14 +119,14 @@
     - FeiGao
     - Cornelia
   project_page: https://bottle101.github.io/AMI-EV/
+  pdf: https://www.science.org/doi/10.1126/scirobotics.adj8124
+
 
 - id: CodedEvents
   title: "CodedEvents: Optimal Point-Spread-Function Engineering for 3D-Tracking with Event Cameras"
-  venue: Conference on Computer Vision and Pattern Recognition (CVPR), 2024
-  venue_url: https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
+  venue: CVPR 2024
   description: "CodedEvents is a novel method for optimal point-spread-function engineering for 3D-tracking with event cameras."
   image: CodedEvent.png
-  image_mouseover: CodedEvent.png
   authors:
     - Sachin
     - Matt
@@ -137,15 +136,14 @@
     - Chahat
     - metzler
     - Yiannis
-  project_page: https://openaccess.thecvf.com/content/CVPR2024/html/Shah_CodedEvents_Optimal_Point-Spread-Function_Engineering_for_3D-Tracking_with_Event_Cameras_CVPR_2024_paper.html
+  pdf: https://openaccess.thecvf.com/content/CVPR2024/html/Shah_CodedEvents_Optimal_Point-Spread-Function_Engineering_for_3D-Tracking_with_Event_Cameras_CVPR_2024_paper.html
 
 
 - id: Occupancy
-  title: "Proxmap: Proximal occupancy map prediction for efficient indoor robot navigation"
-  venue: 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+  title: "ProxMaP: Proximal Occupancy Map Prediction for Efficient Indoor Robot Navigation"
+  venue: IROS 2023
   description: "We present a self-supervised occupancy prediction technique, ProxMaP, to predict the occupancy within the proximity of the robot to enable faster navigation."
   image: occupancy.png
-  image_mouseover: occupancy.png
   authors:
     - Vishnu
     - jxchen
@@ -155,8 +153,8 @@
 
 - id: MARL
   title: "Multi-Agent Reinforcement Learning for Visibility-based Persistent Monitoring"
-  venue: 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
-  description: "We present a Multi-Agent Reinforcement Learning (MARL) algorithm for the Visibility-based Persistent Monitoring (VPM) problem. "
+  venue: IROS 2021
+  description: "We present a Multi-Agent Reinforcement Learning (MARL) algorithm for the Visibility-based Persistent Monitoring (VPM) problem."
   image: marl.png
   image_mouseover: marl.mp4
   authors:
@@ -165,4 +163,3 @@
     - Zhongshun
     - Pratap
   pdf: https://ieeexplore.ieee.org/abstract/document/9635898
-  

@@ -1,0 +1,17 @@
+awards:
+  - name: NeuroPAC Fellowship
+    detail: >-
+      Supported by the NSF grant "AccelNet: Accelerating Research on Neuromorphic
+      Perception, Action, and Cognition."
+    year: 2024
+  - name: Ph.D. Dean Fellowship
+    detail: University of Maryland, College Park.
+    year: 2022 – 2023
+  - name: John D. Gannon Endowed Scholarship
+  - name: Capital One Bank Dean's Scholarship Fund in Computer Science
+
+service:
+  - name: Conference Reviewer
+    detail: CVPR 2025, ICCV 2025, ICRA 2021, 2023, 2024, IROS 2021, 2022, 2024.
+  - name: Journal Reviewer
+    detail: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).

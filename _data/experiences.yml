@@ -1,0 +1,53 @@
+# Experience timeline, newest first.
+# kind: work (drawn on the left) or education (drawn on the right).
+# highlight: optional emphasized line shown under the description.
+
+- org: Google Research
+  role: Student Researcher
+  dates: Summer 2026
+  location: Mountain View, CA
+  description: >-
+    Conducted fundamental research on frontier video and world generation models, focusing on
+    3D geometry, motion dynamics, and long-term world consistency, with large-scale distributed
+    training using JAX and TPUs.
+  kind: work
+
+- org: Amazon
+  role: Applied Scientist Intern
+  dates: Summer 2025
+  location: Seattle, WA
+  description: Diffusion-based image layer decomposition (CVPR 2026).
+  highlight: Strongly Inclined (Top 1% of all interns).
+  kind: work
+
+- org: Dolby Laboratories
+  role: Ph.D. Research Intern
+  dates: Summer 2024
+  location: Sunnyvale, CA
+  description: Neural event data compression and neural video codecs; two patents submitted.
+  kind: work
+
+- org: University of Maryland
+  role: Ph.D. in Computer Science
+  dates: Fall 2022 – Present
+  location: College Park, MD
+  description: Perception and Robotics Group.
+  kind: education
+
+- org: Brain Corp
+  role: Robotics Software Engineer Intern
+  dates: Jun – Aug 2022
+  location: San Diego, CA
+  kind: work
+
+- org: University of Maryland
+  role: M.S. in Computer Science
+  dates: 2020 – 2022
+  location: College Park, MD
+  kind: education
+
+- org: University of Maryland
+  role: B.S. in Computer Science
+  dates: 2017 – 2020
+  location: College Park, MD
+  kind: education
