@@ -6,6 +6,23 @@
 # project_page / pdf / doi / github:  optional links, shown as buttons
 # award:            optional highlight shown after the venue
 
+- id: WorldLatent
+  title: "WorldLatent: A Unified 4D Latent Space for World Perception and Generation"
+  venue: Under Review
+  description: "We fuse RGB video, depth, and camera rays into one 4D latent space, so a single diffusion model performs 4D perception, text-to-4D generation, and depth-conditioned editing. Work done during my internship at Google."
+  image: WorldLatent.png
+  image_mouseover: WorldLatent.mp4
+  authors:
+    - jxchen
+    - Yujia
+    - Cornelia
+    - Yiannis
+    - WenSheng
+    - DuTran
+  project_page: https://worldlatent.github.io/
+  pdf: https://arxiv.org/abs/2611.31209
+
+
 - id: FFGo
   title: "First Frame Is the Place to Go for Video Content Customization"
   venue: CVPR 2026
