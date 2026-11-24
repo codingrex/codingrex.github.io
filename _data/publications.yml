@@ -9,7 +9,7 @@
 - id: WorldLatent
   title: "WorldLatent: A Unified 4D Latent Space for World Perception and Generation"
   venue: Under Review
-  description: "We fuse RGB video, depth, and camera rays into one 4D latent space, so a single diffusion model performs 4D perception, text-to-4D generation, and depth-conditioned editing. Work done during my internship at Google."
+  description: "A unified 4D world model that bridges monocular 4D perception, text-to-4D generation, and geometry-guided video editing within one shared multimodal latent space. Work done during my internship at Google."
   image: WorldLatent.png
   image_mouseover: WorldLatent.mp4
   authors:

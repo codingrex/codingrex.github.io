@@ -7,9 +7,9 @@
   dates: Summer 2026
   location: Mountain View, CA
   description: >-
-    Conducted fundamental research on frontier video and world generation models, focusing on
-    3D geometry, motion dynamics, and long-term world consistency, with large-scale distributed
-    training using JAX and TPUs.
+    Conducted fundamental research on unified 4D world models (WorldLatent), bridging monocular
+    4D perception, text-to-4D generation, and geometry-guided video editing within one shared
+    multimodal latent space via large-scale distributed training in JAX and TPUs.
   kind: work
 
 - org: Amazon
