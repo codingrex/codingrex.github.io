@@ -26,7 +26,7 @@ baseurl: ""
 # Used for the page's meta description and link previews.
 description: >-
   Homepage of Jingxi Chen, a Ph.D. student at the University of Maryland, College Park,
-  working on image, video, and world generative models, computational photography, and robotic vision.
+  working on image and video generative models, world models, computer vision, and computational photography.
 
 # Header: one line per entry under the name.
 positions:
@@ -34,7 +34,7 @@ positions:
   - Research Intern at Google, Amazon, Dolby
 
 tagline: >-
-  My research focuses on image, video, and world generative models, computational photography, and robotic vision.
+  My research focuses on image and video generative models, world models, computer vision, and computational photography.
 
 # Optional highlighted note under the tagline (markdown), e.g. job-market status.
 # Leave empty to hide it.
